@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source = DESKTOP-GTVKFHQ; Initial Catalog = TMemories;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -Outputdir TMemoriesModels -ContextDir TMemoriesMapping -Context TMemoriesContext -force

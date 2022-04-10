@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\bin\Debug\net5.0\Core.Contracts.deps.json
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\bin\Debug\net5.0\Core.Contracts.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\bin\Debug\net5.0\Core.Contracts.pdb
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.AssemblyInfo.cs
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\refint\Core.Contracts.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.pdb
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\ref\Core.Contracts.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\bin\Debug\net5.0\Core.Models.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\bin\Debug\net5.0\Core.Models.pdb
+C:\Users\DELL\Documents\TrackMemories\TMemories\Core\Core.Contracts\obj\Debug\net5.0\Core.Contracts.csproj.CopyComplete

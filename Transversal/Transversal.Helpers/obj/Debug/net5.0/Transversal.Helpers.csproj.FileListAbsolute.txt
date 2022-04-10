@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\bin\Debug\net5.0\Transversal.Helpers.deps.json
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\bin\Debug\net5.0\Transversal.Helpers.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\bin\Debug\net5.0\Transversal.Helpers.pdb
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.AssemblyInfo.cs
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\refint\Transversal.Helpers.dll
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\Transversal.Helpers.pdb
+C:\Users\DELL\Documents\TrackMemories\TMemories\Transversal\Transversal.Helpers\obj\Debug\net5.0\ref\Transversal.Helpers.dll
